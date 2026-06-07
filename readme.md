@@ -3,7 +3,7 @@
 
 
 ## 🤖 Descrição:
->***O repositório é um Lab. (laboratório) que aplica conceitos do uso e boas práticas de I.A. (Inteligência Artificial) e linguagem de programação Python, neste caso, um agente que atue como organizador de tarefas na plataforma Trello, ele ajuda o usuário na organização diária, seja nos status (a fazer, em andamento e concluído) para gerar cards com as descrições e nas automatizações (ao movimentar) desses status das tarefas. Em síntese, o agente usa o fluxo lógico dos status para ajudar o usuário aumentar a produtividade diária e na eficiência em processos comumente usados. ***
+>***O repositório é um Lab. (laboratório) que aplica conceitos do uso e boas práticas de I.A. (Inteligência Artificial) e linguagem de programação Python, neste caso, um agente que atue como organizador de tarefas na plataforma Trello, ele ajuda o usuário na organização diária, seja nos status (a fazer, em andamento e concluído) para gerar cards com as descrições e nas automatizações (ao movimentar) desses status das tarefas. Em síntese, o agente usa o fluxo lógico dos status para ajudar o usuário aumentar a produtividade diária e na eficiência em processos comumente usados.***
 
 ## 🗃️ Tópicos de Construção:
 - *Uso e boas práticas com I.A.;*
